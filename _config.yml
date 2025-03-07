@@ -1,15 +1,15 @@
 # Setup
 title:            Franco Chalissery
-tagline:          'Home Page for Franco Chalissery'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+tagline:          'To Franco Chalissery'
+description:      '<a href="https://jekyllrb.com" target="_blank">Jekyll</a> <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              https://ca-franco.github.io
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Franco Chalissery'
+  url:            https://twitter.com/fchaliss
 
 # Gems
 plugins:
