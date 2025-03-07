@@ -5,6 +5,7 @@ description:      'Programming blog'
 url:              https://ca-franco.github.io
 baseurl:          ''
 paginate:         5
+linkedin:         https://linkedin.com/francochalissery
 
 # About and contact
 author:
