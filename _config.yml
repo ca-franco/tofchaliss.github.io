@@ -1,7 +1,7 @@
 # Setup
-title:            Franco's Programming Blog
+title:            Franco Chalissery
 tagline:          'To Franco Chalissery'
-description:      '<a href="https://jekyllrb.com" target="_blank">Jekyll</a> <a href="https://twitter.com/fchaliss" target="_blank">@fchaliss</a>.'
+description:      'Programming blog'
 url:              https://ca-franco.github.io
 baseurl:          ''
 paginate:         5
