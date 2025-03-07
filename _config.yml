@@ -12,6 +12,10 @@ author:
   name:           'Franco Chalissery'
   url:            https://twitter.com/fchaliss
 
+# github repo
+github:
+  repo:           https://github.com/ca-franco
+
 # Gems
 plugins:
   - jekyll-paginate
