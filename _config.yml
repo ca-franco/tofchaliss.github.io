@@ -3,7 +3,7 @@ title:            Franco's Programming Blog
 tagline:          'To Franco Chalissery'
 description:      '<a href="https://jekyllrb.com" target="_blank">Jekyll</a> <a href="https://twitter.com/fchaliss" target="_blank">@fchaliss</a>.'
 url:              https://ca-franco.github.io
-baseurl:          'https://ca-franco.github.io'
+baseurl:          ''
 paginate:         5
 
 # About and contact
