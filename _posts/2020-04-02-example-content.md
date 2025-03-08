@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+excerpt: "A short summary of your post for previews-2"
 ---
 
 
