@@ -1,5 +1,5 @@
 ---
 layout: resume
-title: "John Doe - Resume"
+title: "Franco - Resume"
 permalink: /resume/
 ---
